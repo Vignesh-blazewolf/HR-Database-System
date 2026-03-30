@@ -7,3 +7,4 @@ The HR Database System is a SQL mini project designed to analyze employee and de
 This project uses advanced SQL concepts such as JOINs, GROUP BY, HAVING, and subqueries to perform operations like employee-department mapping, salary analysis, and performance evaluation across departments.
 
 **Key Features**
+-->Employee and department relationship using JOINs
