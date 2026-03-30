@@ -33,3 +33,7 @@ This project uses advanced SQL concepts such as JOINs, GROUP BY, HAVING, and sub
 --> Improving SQL problem-solving skills
 
 **Use Case**
+
+Ideal for:
+
+--> SQL beginners building portfolio
