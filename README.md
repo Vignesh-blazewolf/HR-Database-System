@@ -29,3 +29,5 @@ This project uses advanced SQL concepts such as JOINs, GROUP BY, HAVING, and sub
 --> Writing multi-table queries
 
 --> Performing business-level data analysis
+
+--> Improving SQL problem-solving skills
