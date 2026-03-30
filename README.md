@@ -21,3 +21,5 @@ This project uses advanced SQL concepts such as JOINs, GROUP BY, HAVING, and sub
 **Technologies Used**
 
 --> SQL (Structured Query Language)
+
+**Learning Outcomes**
