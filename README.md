@@ -25,3 +25,5 @@ This project uses advanced SQL concepts such as JOINs, GROUP BY, HAVING, and sub
 **Learning Outcomes**
 
 --> Understanding relational database design
+
+--> Writing multi-table queries
