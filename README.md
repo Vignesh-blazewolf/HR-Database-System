@@ -37,3 +37,5 @@ This project uses advanced SQL concepts such as JOINs, GROUP BY, HAVING, and sub
 Ideal for:
 
 --> SQL beginners building portfolio
+
+--> Students learning database concepts
