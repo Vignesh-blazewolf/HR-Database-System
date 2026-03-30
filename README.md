@@ -11,3 +11,5 @@ This project uses advanced SQL concepts such as JOINs, GROUP BY, HAVING, and sub
 --> Employee and department relationship using JOINs
 
 --> Department-wise salary analysis
+
+--> Identification of top-performing departments
