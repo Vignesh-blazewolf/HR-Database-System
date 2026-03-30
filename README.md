@@ -41,3 +41,11 @@ Ideal for:
 --> Students learning database concepts
 
 --> Practicing real-world HR analytics
+
+**AUTHOR**
+
+**VIGNESHWARAN**
+
+Aspiring **FULL STACK DEVELOPER**
+
+Passionate about software development, databases, and building scalable applications.
