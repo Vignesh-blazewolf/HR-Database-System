@@ -2,3 +2,4 @@
 A SQL-based mini project that analyzes employee and department data using JOINs, aggregation, and subqueries. It generates insights like salary distribution, department performance, and top earners, helping build strong fundamentals in database management and data analysis.
 
 **HR Database System (SQL Project)**
+The HR Database System is a SQL mini project designed to analyze employee and departmental data in an organization. It simulates real-world HR analytics by working with relational tables and performing structured queries to extract meaningful insights.
