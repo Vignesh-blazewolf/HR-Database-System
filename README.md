@@ -39,3 +39,5 @@ Ideal for:
 --> SQL beginners building portfolio
 
 --> Students learning database concepts
+
+--> Practicing real-world HR analytics
